@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Home
 ---
 
-Welcome to daemoncub's site. This site uses the Minimal theme.
+# Welcome to daemoncub
 
-More content can be added in posts (`_posts/`) or pages.
+This site uses the Minimal theme.
+
+You can add more content here. Edit `index.md` to customize this page.
