@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: daemoncub
 description: Personal website
+theme: jekyll-theme-minimal
+plugins:
+	- jekyll-feed
