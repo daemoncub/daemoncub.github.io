@@ -12,4 +12,4 @@ layout: default
   <p>{{ post.excerpt }}</p>
 {% endfor %}
 
-[View all posts]({{ "/posts.html" | relative_url }})
+[View all posts]({{ "/posts/" | relative_url }})
