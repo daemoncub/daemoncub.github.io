@@ -1,3 +1,3 @@
 # daemoncub.github.io
 
-Welcome to my blog website
+This is the GitHub pages hosting my blog.
