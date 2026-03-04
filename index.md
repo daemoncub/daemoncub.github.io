@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Hey! I logged everything for you.
+# Welcome! 
+
+I logged everything for you.
 
 ## Recent Posts
 
