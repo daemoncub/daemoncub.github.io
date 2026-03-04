@@ -2,7 +2,8 @@
 layout: post
 title: "MAC Flooding Lab"
 date: 2026-03-04 13:10:00 +0300
-categories: security
+author: "daemoncub"
+categories: Lab
 tags: pentesting networking mac-flooding
 ---
 
@@ -10,7 +11,7 @@ Hey there, I made this lab for my pentesting lab assignment as part of the cours
 
 In this lab MAC flooding attack will be demonstrated targeting the switch so we're operating on layer 2 of the OSI model the data link layer.
 
-On windows setting up the simulation environment using GNS3, you can find tutorials on how to get things started on YT. In short i used GNS3 GUI, GNS3 VM, kali VM — on VMware hypervisor — and Cisco switch image file as the structuring parts of the environment.
+On windows setting up the simulation environment using GNS3, you can find tutorials on how to get things started on YT. In short I used GNS3 GUI, GNS3 VM, kali VM — on VMware hypervisor — and Cisco switch image file as the structuring parts of the environment.
 
 The network consisting of kali virtual machine (attacker), PC1, PC2 and a switch it will be connected like shown below.
 

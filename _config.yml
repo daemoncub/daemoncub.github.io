@@ -1,5 +1,6 @@
 title: daemoncub
 description: Personal website
+author: "daemoncub"
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
