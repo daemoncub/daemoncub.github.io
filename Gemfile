@@ -1,4 +1,3 @@
 source "https://rubygems.org"
 gem "jekyll"
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "jekyll-remote-theme"
