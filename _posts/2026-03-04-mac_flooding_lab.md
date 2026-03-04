@@ -2,7 +2,7 @@
 layout: post
 title: "MAC Flooding Lab"
 date: 2026-03-04 13:10:00 +0300
-author: "daemoncub"
+author: "me"
 categories: Lab
 tags: pentesting networking mac-flooding
 ---
