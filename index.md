@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Hey! I logged everything for you..
+
 ## Recent Posts
 
 {% for post in site.posts limit:5 %}
