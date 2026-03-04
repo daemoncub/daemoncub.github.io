@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Welcome to daemoncub
-
 ## Recent Posts
 
 {% for post in site.posts limit:5 %}
